@@ -1,6 +1,9 @@
- ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
+body {
+  background: green;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
