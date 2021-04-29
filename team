@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <center><h1>The Team Behind The Site</h1></center>
+    <center><h3>Beta *Site May Break!!!*</h3></center>
+    <center> <h4> <a href="game.html">Gaming Lounge</a> <a href="article.html">Hamsters Articles</a> <a href="ham.html"> Hamsters Projects </a> </h4> </center>
+  </head>
+  <body>
+    <h2> The Team making the site</h2>
+    <ul>
+      <li> Hamster - HamsterThatCommitsStuff - Design, Code, and Planning </li>
+      <li> Akek - Planning (INACTIVE) </li>
+      <li> RedShel - Planning, Code (INACTIVE> </li>
+    <p> The Site is expecting some more people to join!</p>
+  </body>
+</html>
