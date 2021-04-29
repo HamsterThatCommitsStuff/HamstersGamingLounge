@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <center><h1>Hamsters Gaming Site</h1></center>
+    <center><h3>Beta *Site May Break!!!*</h3></center>
+    <center> <h4> <a href="game.html">Gaming Lounge</a> <a href="article.html">Hamsters Articles</a> <a href="ham.html"> Hamsters Projects </a> </h4> </center>
+  </head>
+  <body>
+    <p> Welcome to City 17! You have chosen, or been chosen, to relocate to one of our finest remaining urban centers. I thought so much of City 17 that I elected to establish my administration here, in the Citadel so thoughtfully provided by our benefactors. I've been proud to call City 17 my home.</p>
+    <h2> Announcments </h2>
+    <p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+    <p>New Games! 13 Games added, Including alot of Papas games, Run 2, and Tetris! This is one part of a big update(hopefully!)</p>
+    <p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+    <h2> Past Announcments</h2>
+    <p>New Games! 13 Games added, Including alot of Papas games, Run 2, and Tetris! This is one part of a big update(hopefully!) - 4/29/2021 - Hamster</p>
+  </body>
+</html>
