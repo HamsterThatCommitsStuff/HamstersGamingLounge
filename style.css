@@ -1,9 +1,5 @@
-body {
-  background: green;
-}
-p {
-  color: black;
-}
-h1 {
-  font-weight: bold;
-}
+body {background-color: black;}
+h1   {color: Aquamarine;}
+h2  {color: Aquamarine;}
+p    {color: Aquamarine;}
+a    {color: Aqua;}
